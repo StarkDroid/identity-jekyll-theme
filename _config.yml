@@ -1,6 +1,6 @@
 # Site settings
-title: Identity
-email: youremailaddress@gmail.com
+title: StarkDroid
+email: gamerprince.exp@gmail.com
 description: The Jekyll version of the Identity theme by HTML5 UP.
 baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -8,7 +8,7 @@ url: "" # the base hostname & protocol for your site
 # Identity
 your-name: M.Trishiraj
 your-title: Lead Developer of ZephyrOS
-your-tagline: #Student #foodie #VELSguy 
+your-tagline: Student, foodie, VELSguy 
 
 # Social settings
 500px_url:
